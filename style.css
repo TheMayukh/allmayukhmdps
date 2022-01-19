@@ -207,6 +207,7 @@ nav{
     text-align: center;
     font-size: 1em;
     font-family: 'consolas';
+    margin-bottom:40px;
 }
 .ppts{
     display: flex;
